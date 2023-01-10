@@ -16,7 +16,7 @@ Jordan Skomal
 
 ### Deploy Link
 
-Check out our deployed game [here](https://roll-for-initiative-turing.herokuapp.com/).
+Check out our deployed game [here](https://roll-for-initiative.netlify.app).
 
 ## Table of Contents
 
